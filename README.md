@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Florent Chiaroni
-- 👀 I’m currently interested in computer vision and machine learning applied to mobile robotics and medical imaging
+- 👀 I’m interested in computer vision and machine learning applied to mobile robotics and medical imaging
 - 🌱 I’m currently doing a postdoc
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me: florent.chiaroni.1@etsmtl.net

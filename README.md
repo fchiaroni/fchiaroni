@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Florent Chiaroni
 - 👀 I’m interested in computer vision and machine learning applied to mobile robotics and medical imaging
-- :nerd_face: I'm currently doing a postdoc
 - :dizzy: Let's collaborate!
 
 

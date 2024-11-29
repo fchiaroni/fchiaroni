@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Florent Chiaroni
 - 👀 I’m interested in computer vision, machine learning, and mobile robotics.
-- :dizzy: Let's collaborate!
 
 
 <!---
